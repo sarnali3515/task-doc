@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gradient-to-bottom {
+    background: linear-gradient(to bottom, white 0%, lightgray 50%, white 100%);
+
+}
+
+/* .bottom-gradient {
+    background: radial-gradient(647.71% 142.52% at 98% 78%, rgb(2, 0, 67), rgba(2, 0, 67, 0.3) 100%);
+} */
+
+
+/* .bg-left-to-right {
+    background: linear-gradient(to right, lightgray 0%, white 50%, lightgray 100%);
+} */
