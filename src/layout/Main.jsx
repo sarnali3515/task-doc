@@ -1,3 +1,4 @@
+import Footer from "../Pages/Footer/Footer";
 import Home from "../Pages/Home/Home";
 
 const Main = () => {
@@ -7,6 +8,7 @@ const Main = () => {
 
 
                 <Home></Home>
+                <Footer></Footer>
             </div>
         </div>
 
