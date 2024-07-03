@@ -7,7 +7,7 @@ import slide from '../../assets/Icons/slide.png'
 
 const Testimonial = () => {
     return (
-        <div className="mt-10 md:mt-40">
+        <div className="my-10 md:my-40">
             <a className="btn text-[#020043] text-xs md:text-lg hover:bg-[#020043] hover:text-white font-medium border-[#020043] bg-transparent  rounded-3xl mb-4">Testimonial</a>
             <h1 className="text-3xl md:text-4xl font-semibold mb-4">What they say about us</h1>
             <div className='md:flex gap-8 '>
