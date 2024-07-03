@@ -16,7 +16,7 @@ const Mission = () => {
                     <div className="flex justify-end">
                         <img src={img} className="" alt="" />
                     </div>
-                    <div className="absolute left-4 md:right-72 -bottom-28 md:-bottom-10 md:w-96 bg-[#343268] text-white rounded-3xl py-10 px-7">
+                    <div className="absolute md:right-72 -bottom-36 md:-bottom-10 md:w-96 bg-[#343268] text-white rounded-3xl py-10 px-7">
                         <h2 className="text-2xl font-medium">Our mission is simple</h2>
                         <p>To provide high-quality healthcare services that are accessible, personalized, and patient-centered.</p>
                     </div>
