@@ -22,7 +22,7 @@ const Navbar = () => {
                             {navLists}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost md:text-2xl text-fuchsia-300"><img src={logo} alt="" /></a>
+                    <a className="btn btn-ghost"><img src={logo} alt="" /></a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">

@@ -2,9 +2,9 @@
 
 const Faq = () => {
     return (
-        <div className="mt-40">
-            <a className="btn text-[#020043] text-xs md:text-lg hover:bg-[#020043] hover:text-white font-medium border-[#020043] bg-transparent  rounded-3xl mb-4">Service</a>
-            <h1 className="text-4xl font-semibold mb-4">Frequntly Asked Question</h1>
+        <div className="mt-10 md:mt-40">
+            <a className="btn text-[#020043] text-xs md:text-lg hover:bg-[#020043] hover:text-white font-medium border-[#020043] bg-transparent  rounded-3xl mb-4">Faq</a>
+            <h1 className="text-2xl md:text-4xl font-semibold mb-4">Frequntly Asked Question</h1>
             <div>
                 <div className="collapse collapse-arrow bg-white">
                     <input type="radio" name="my-accordion-2" defaultChecked />
