@@ -3,6 +3,7 @@ import user2 from '../../assets/Icons/user-2.png'
 import user3 from '../../assets/Icons/user-3.png'
 import star4 from '../../assets/Icons/star4.png'
 import star5 from '../../assets/Icons/star5.png'
+import slide from '../../assets/Icons/slide.png'
 
 const Testimonial = () => {
     return (
@@ -62,6 +63,9 @@ const Testimonial = () => {
                         </div>
                     </div>
                 </div>
+            </div>
+            <div className='flex justify-center pt-4'>
+                <img src={slide} alt="" />
             </div>
         </div>
     );
