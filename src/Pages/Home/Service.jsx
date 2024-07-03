@@ -6,7 +6,7 @@ import img3 from '../../assets/Images/Rectangle 27.png'
 
 const Service = () => {
     return (
-        <div className="mt-40 bg-white rounded-2xl p-10">
+        <div className="mt-40 bg-[#FFFFF5] rounded-2xl p-10">
             <div className="grid grid-cols-2 gap-7">
                 <div className="text-[#020043]">
                     <a className="btn text-[#020043] text-xs md:text-lg hover:bg-[#020043] hover:text-white font-medium border-[#020043] bg-transparent  rounded-3xl mb-4">Service</a>

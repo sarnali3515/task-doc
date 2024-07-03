@@ -8,7 +8,7 @@ const Statistics = () => {
         <div className="mt-12 max-w-7xl mx-auto">
             <div className="grid grid-cols-5 gap-5">
                 {/* left */}
-                <div className="bg-white text-[#020043] rounded-3xl border p-5 space-y-2 border-[#02144333]">
+                <div className="bg-[#FBFBFB] text-[#020043] rounded-3xl border p-5 space-y-2 border-[#02144333]">
                     <h1 className="text-[40px] font-semibold ">90%</h1>
                     <p className='pb-3 text-sm pr-10'>
                         Patient satisfaction rate, reflecting our commitment.
@@ -24,7 +24,7 @@ const Statistics = () => {
                     </div>
                     <div className='grid grid-cols-3 gap-5 mt-5'>
                         {/* middle-1 */}
-                        <div className="bg-white text-[#020043] rounded-3xl border p-5 space-y-1 border-[#02144333]">
+                        <div className="bg-[#FFFFF5] text-[#020043] rounded-3xl border p-5 space-y-1 border-[#02144333]">
                             <h1 className="text-[40px] font-semibold ">500+</h1>
                             <p className=' text-sm'>
                                 Board-certified <br /> doctors
@@ -35,7 +35,7 @@ const Statistics = () => {
                         </div>
                         {/* middle-2 */}
                         <div className='flex items-end'>
-                            <div className="bg-white text-[#020043] rounded-3xl border p-5 space-y-1 border-[#02144333] h-40 w-full">
+                            <div className="bg-[#FBFBFB] text-[#020043] rounded-3xl border p-5 space-y-1 border-[#02144333] h-40 w-full">
                                 <h1 className="text-[40px] font-semibold ">4.8</h1>
                                 <p className=' text-sm'>
                                     Over 20,000 Patient
@@ -46,7 +46,7 @@ const Statistics = () => {
                             </div>
                         </div>
                         {/* middle-3 */}
-                        <div className="bg-white text-[#020043] rounded-3xl border p-5 space-y-1 border-[#02144333]">
+                        <div className="bg-[#FFFFF5] text-[#020043] rounded-3xl border p-5 space-y-1 border-[#02144333]">
                             <h1 className="text-[40px] font-semibold ">$5000</h1>
                             <p className=' text-sm'>
                                 Money spend <br />
@@ -59,7 +59,7 @@ const Statistics = () => {
                     </div>
                 </div>
                 {/* right */}
-                <div className="bg-white text-[#020043] rounded-3xl border p-5 space-y-2 border-[#02144333]">
+                <div className="bg-[#FBFBFB] text-[#020043] rounded-3xl border p-5 space-y-2 border-[#02144333]">
                     <h1 className="text-[40px] font-semibold ">50+</h1>
                     <p className='pb-8 text-sm pr-10'>
                         Free lession video <br /> for patient

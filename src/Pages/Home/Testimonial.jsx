@@ -11,7 +11,7 @@ const Testimonial = () => {
             <h1 className="text-4xl font-semibold mb-4">What they say about us</h1>
             <div className='flex gap-6 '>
                 {/* card-1 */}
-                <div className="p-5 w-96 space-y-4 bg-white rounded-2xl">
+                <div className="p-5 w-96 space-y-4 bg-[#FFFFF5] rounded-2xl">
                     <h3 className="text-xl font-semibold text-[#020043]">Expertise and Compassion <br /> Combined</h3>
                     <p className="text-xs text-[#4D4C7B] mb-5 ">I cant thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.</p>
                     <div className='flex gap-4'>
@@ -28,7 +28,7 @@ const Testimonial = () => {
                     </div>
                 </div>
                 {/* card-2 */}
-                <div className="p-5 w-96  space-y-4 bg-white rounded-2xl">
+                <div className="p-5 w-96  space-y-4 bg-[#FFFFF5] rounded-2xl">
                     <h3 className="text-xl font-semibold text-[#020043]">Life-Saving Care, Life-Changing Experience</h3>
                     <p className="text-xs text-[#4D4C7B]">My experience at [Healthcare Provider Name] was life-changing. The prompt and accurate diagnosis, coupled with the advanced treatments they provided, saved my life.</p>
                     <div className='flex gap-4'>
@@ -45,7 +45,7 @@ const Testimonial = () => {
                     </div>
                 </div>
                 {/* card-3 */}
-                <div className="p-5 w-96 space-y-4 bg-white rounded-2xl">
+                <div className="p-5 w-96 space-y-4 bg-[#FFFFF5] rounded-2xl">
                     <h3 className="text-xl font-semibold text-[#020043]">A Partner in Health and
                         <br />  Wellness</h3>
                     <p className="text-xs text-[#4D4C7B]">As a busy professional, I appreciate the convenience and quality of care I receive at [Healthcare Provider Name]. From telemedicine consultations to routine check-ups, theyve become my trusted partner in health and</p>
