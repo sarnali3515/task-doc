@@ -4,7 +4,7 @@ import social from '../../assets/Icons/social.png'
 const Footer = () => {
     return (
         <div className="bg-[#020043] mt-40">
-            <footer className="footer  p-10 max-w-6xl mx-auto  text-[#FFFFF5]">
+            <footer className="footer  p-10 py-20 max-w-6xl mx-auto  text-[#FFFFF5]">
                 <aside>
                     <img src={logo} alt="" />
 

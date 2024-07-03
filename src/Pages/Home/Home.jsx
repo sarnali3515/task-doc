@@ -20,6 +20,9 @@ const Home = () => {
                 <Service></Service>
                 <Testimonial></Testimonial>
                 <Faq></Faq>
+
+            </div>
+            <div className="bg-gradient-to-bottom">
                 <Bottom></Bottom>
             </div>
 
