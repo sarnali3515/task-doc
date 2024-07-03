@@ -4,7 +4,7 @@ import logo from '../../assets/Images/logo light.png'
 
 const Bottom = () => {
     return (
-        <div className='max-w-7xl mx-auto relative mt-10 md:mt-40 bg-gradient-to-bottom'>
+        <div className='max-w-7xl mx-auto relative my-10 md:my-40 bg-gradient-to-bottom'>
             <img className='w-[1280px] mt-5  rounded-3xl' src={bottomImg} alt="" />
             <div className='absolute top-0 left-0 w-full h-full bg-gradient-to-r from-[#020043] to-[#020043]/20  rounded-3xl p-3 md:p-14 '>
                 <div className='flex justify-between'>
